@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 When we initialize repository git creates .git folder to keep track of files versions.
+
+How is the staging are different from the working directory and the repository? What value do you think it offers?
+
+In repository you keep commits of your files, in working directory you can keep files that you needed but don't want to keep their history and staging area is something intermediate. You add to it files that you are going to save history.
