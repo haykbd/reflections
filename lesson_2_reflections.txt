@@ -5,3 +5,7 @@ When we initialize repository git creates .git folder to keep track of files ver
 How is the staging are different from the working directory and the repository? What value do you think it offers?
 
 In repository you keep commits of your files, in working directory you can keep files that you needed but don't want to keep their history and staging area is something intermediate. You add to it files that you are going to save history.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can check it by compairing files in staging area and recent commit.
