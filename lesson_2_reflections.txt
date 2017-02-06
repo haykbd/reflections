@@ -13,3 +13,7 @@ I can check it by compairing files in staging area and recent commit.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 When you want to do some experiments on file and generel work parallely.
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams help to see history of branch construction.
