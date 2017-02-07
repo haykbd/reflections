@@ -17,3 +17,7 @@ When you want to do some experiments on file and generel work parallely.
 How do the diagrams help you visualize the branch structure?
 
 The diagrams help to see history of branch construction.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+By merging two branches we are getting one common project with both branches changes involved. With help of diagram we can see which commits involved and where is common parent of branches.
