@@ -13,3 +13,7 @@ Forks used in GitHub to make copies from one use to another, clone used with git
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 So if someone with whom you colleborate makes changes it can be cause of confilcts, so you can see conflicts and resolve them.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I don't think there would be anything easier and we will need to do everything that does git manually.
